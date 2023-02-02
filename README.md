@@ -1,3 +1,6 @@
+## <사전 과제> Todo 앱 JSDoc 배포 링크
+> [👉🏻 JSDoc by hardy716 👈🏻](https://hardy716.github.io/wanted-pre-onboarding-challenge-fe-2/index.html)
+
 ## 챌린지 과제 가이드
 
 >요구 사항을 구현하지 않고 설계만합니다.
