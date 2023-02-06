@@ -4,7 +4,7 @@
  * @property {string} id - 아이디(required)
  * @property {string} content - 내용(required)
  * @property {boolean} completed - 완료여부(required)
- * @property {string} category - 카테코리(required)
+ * @property {string} category - 카테고리(required)
  * @property {Array<string>} tags - 태그들(optional)
  */
 
