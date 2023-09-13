@@ -12,7 +12,7 @@
 
 <br></br>
 
-## <사전 과제> JSDoc 배포 링크
+## 🌐 <사전 과제> JSDoc 배포 링크
 
 [👉🏻 JSDoc by hardy716 👈🏻](https://hardy716.github.io/wanted-pre-onboarding-challenge-fe-2/index.html)
 
