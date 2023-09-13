@@ -13,8 +13,8 @@
 <br></br>
 
 ## 🌐 <사전 과제> JSDoc 배포 링크
-
-[👉🏻 JSDoc by hardy716 👈🏻](https://hardy716.github.io/wanted-pre-onboarding-challenge-fe-2/index.html)
+![스크린샷 2023-09-13 오후 4 05 09](https://github.com/hardy716/wanted-pre-onboarding-challenge-fe-2/assets/101140679/ea2d5293-2ca6-4407-bcb5-cedd6e42cd18)
+> [👉🏻 JSDoc by hardy716 👈🏻](https://hardy716.github.io/wanted-pre-onboarding-challenge-fe-2/index.html)
 
 <br></br>
 
