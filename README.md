@@ -1,7 +1,24 @@
-## <사전 과제> Todo 앱 JSDoc 배포 링크
-> [👉🏻 JSDoc by hardy716 👈🏻](https://hardy716.github.io/wanted-pre-onboarding-challenge-fe-2/index.html)
+|0. <사전 과제> JSDOC 배포 링크 [🔻]()|
+|---|
 
-## 챌린지 과제 가이드
+|1. 챌린지 과제 가이드 [🔻]()|
+|---|
+
+|2. 챌린지 요구사항 [🔻]()|
+|---|
+
+|3. 참고 문서 [🔻]()|
+|---|
+
+<br></br>
+
+## <사전 과제> JSDoc 배포 링크
+
+[👉🏻 JSDoc by hardy716 👈🏻](https://hardy716.github.io/wanted-pre-onboarding-challenge-fe-2/index.html)
+
+<br></br>
+
+## 🔆 챌린지 과제 가이드
 
 >요구 사항을 구현하지 않고 설계만합니다.
 
@@ -14,7 +31,9 @@
 - README.md를 꼭 작성해 주세요. 본인에 대한 소개나 프로젝트 소개 등 자유롭게 작성해주시면 됩니다.
 - JSDoc 환경 구성에 어색한 경우 [Boilerplate](https://github.com/pocojang/jsdoc-boilerplate)를 이용하셔도 됩니다
 
-## 📝 Requirements
+<br></br>
+
+## 🚩 요구사항
 
 ### 필수 요구사항
 >아래의 Todo 앱 요구사항을 참고하여
@@ -69,7 +88,9 @@ Item {
 }
 ```
 
-#### Reference
+<br></br>
+
+## 📚 참고 문서
 
 - [use JSDoc](https://jsdoc.app)
 - [JSDoc Boilerplate](https://github.com/pocojang/jsdoc-boilerplate)
