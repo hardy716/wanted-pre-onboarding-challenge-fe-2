@@ -1,13 +1,13 @@
-|0. <사전 과제> JSDOC 배포 링크 [🔻]()|
+|0. <사전 과제> JSDOC 배포 링크 [🔻](https://github.com/hardy716/wanted-pre-onboarding-challenge-fe-2/blob/main/README.md#-사전-과제-jsdoc-배포-링크)|
 |---|
 
-|1. 챌린지 과제 가이드 [🔻]()|
+|1. 챌린지 과제 가이드 [🔻](https://github.com/hardy716/wanted-pre-onboarding-challenge-fe-2/blob/main/README.md#-챌린지-과제-가이드)|
 |---|
 
-|2. 챌린지 요구사항 [🔻]()|
+|2. 챌린지 요구사항 [🔻](https://github.com/hardy716/wanted-pre-onboarding-challenge-fe-2/blob/main/README.md#-요구사항)|
 |---|
 
-|3. 참고 문서 [🔻]()|
+|3. 참고 문서 [🔻](https://github.com/hardy716/wanted-pre-onboarding-challenge-fe-2/blob/main/README.md#-참고-문서)|
 |---|
 
 <br></br>
